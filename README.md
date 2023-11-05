@@ -1,6 +1,4 @@
-If you want to remove the edit and delete functions from the code, you can simply exclude those portions of the code. Here's the modified code without the edit and delete functions:
 
-```java
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
